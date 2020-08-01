@@ -1,0 +1,7 @@
+{
+  "domain": "statuscake",
+  "name": "StatusCake",
+  "documentation": "https://github.com/stewiem2000/statuscake",
+  "requirements": ["statuscake==1.4.4"],
+  "codeowners": ["@stewiem2000"]
+}
